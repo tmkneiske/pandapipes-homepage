@@ -215,7 +215,7 @@ The structures of all test networks are listed below:
 <figcaption>Legend of the network components.</figcaption>
 
 
-<h3 id="tests">STANET Tests</h3>
+<h3 id="tests_stanet">STANET Tests</h3>
 
 The STANET test nets were saved in CSV format so that a conversion
 into a json file can take place. A test is considered passed, if certain error tolerances are met.
@@ -255,7 +255,7 @@ is always less than 0.03.
 </math>
 
 
-<h3 id="tests">OpenModelica Tests</h3>
+<h3 id="tests_om">OpenModelica Tests</h3>
 
 Using the mo- and a mat-file containing the simulation results, the OpenModelica
 net will be converted into a pandapipes network.
@@ -321,6 +321,26 @@ the mean temperatures <math><mi>T<sub>diff,mean</sub></mi></math> is in a range 
     </mrow>
 </math>
 <br>
+In the following, the deviations of pressures and flow velocities from the OpenModelica and pandapipes
+calculations are graphically displayed for three different networks. The first net is the
+[Delta net](https://pandapipes.readthedocs.io/en/latest/networks/meshed/meshed_networks.html#delta)
+calculated with Prandtl-Colebrook where <math><mi>p<sub>diff</sub></mi></math> is less than 0.01:
+
+| <img src="{{"/images/about/validation/delta_pressure_deviations.png" | relative_url }}" alt=""/> | <img src="{{"/images/about/validation/delta_velocity_deviations.png" | relative_url }}" alt=""/> |
+
+For the [Pumps net](https://pandapipes.readthedocs.io/en/latest/networks/meshed/meshed_networks.html#pumps)
+using Swamee-Jain for calculation, <math><mi>p<sub>diff</sub></mi></math> is below 0.02 and
+has the below deviations in the junctions and the pipes:
+
+| <img src="{{"/images/about/validation/pumps_pressure_deviations.png" | relative_url }}" alt=""/> | <img src="{{"/images/about/validation/pumps_velocity_deviations.png" | relative_url }}" alt=""/> |
+
+At last the deviations for a network with valves are shown. Here, a limit of 0.4 must be set for the
+relative error with respect to pressure to pass the test. The [Valves network](https://pandapipes.readthedocs.io/en/latest/networks/t_cross/t_cross_networks.html#valves)
+was calculated with Prandtl-Colebrook:
+
+| <img src="{{"/images/about/validation/valves_pressure_deviations.png" | relative_url }}" alt=""/> | <img src="{{"/images/about/validation/valves_velocity_deviations.png" | relative_url }}" alt=""/> |
+
+<br>
 In order to create your own nets in OpenModelica and to perform a comparison with pandapipes,
 the elements that serve as equivalents for the components in pandapipes are listed hereafter:
 
@@ -331,7 +351,7 @@ In the case of heat network calculation, the DynamicPipe must be used instead of
 
 <img src="{{"/images/about/validation/DynamicPipe.png" | relative_url }}" alt=""/>
 
-<h3 id="tests"><i>Example</i></h3>
+<h3 id="tests_example"><i>Example</i></h3>
 
 In the following section an example is presented in which all the above mentioned components
 except the DynamicPipe appear. The components have the below parameters:
