@@ -12,7 +12,7 @@ classes:
 
 ## Citing pandapipes <a name="citing"></a>
 
-A paper describing pandapipes has been published in the 
+A paper describing pandapipes and how it is used for the simulation of multi-energy grids has been published in the 
 [Special Issue "Developing Multi-Energy Systems: Technologies, Methods and Models" of the MDPI Journal Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/Multi-Energy_Systems).
 Please acknowledge the usage of pandapipes by citing this paper:
 
