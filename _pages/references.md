@@ -12,12 +12,12 @@ classes:
 
 ## Citing pandapipes <a name="citing"></a>
 
-A paper describing pandapipes has been published in the [Special Issue "Developing Multi-Energy Systems: Technologies, \
-Methods and Models" of the MDPI Journal Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/Multi-Energy_Systems).
+A paper describing pandapipes has been published in the 
+[Special Issue "Developing Multi-Energy Systems: Technologies, Methods and Models" of the MDPI Journal Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/Multi-Energy_Systems).
 Please acknowledge the usage of pandapipes by citing this paper:
 
-- Lohmeier, D.; Cronbach, D.; Drauz, S.R.; Braun, M.; Kneiske, T.M. [Pandapipes: An Open-Source Piping Grid Calculation\
- Package for Multi-Energy Grid Simulations](https://doi.org/10.3390/su12239899). *Sustainability* **2020**, 12, 9899.
+- Lohmeier, D.; Cronbach, D.; Drauz, S.R.; Braun, M.; Kneiske, T.M. 
+[Pandapipes: An Open-Source Piping Grid Calculation Package for Multi-Energy Grid Simulations](https://doi.org/10.3390/su12239899). *Sustainability* **2020**, 12, 9899.
 
 You can use the following BibTex entry:
 
