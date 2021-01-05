@@ -389,7 +389,7 @@ and sink1 are highlighted in color. Also the deviations of the comparison are li
 <img src="{{"/images/about/validation/example_result_pp.png" | relative_url }}" alt=""/>
 <figcaption>Results of the pandapipes calculations with Prandtl-Colebrook and the results of the comparison with the OpenModelica simulation.</figcaption>
 
-<h2 id="citing">Citing pandpipes</h2>
+<h2 id="citing">Citing pandapipes</h2>
 
 If you use pandapipes in your work, we kindly ask you to cite the [pandapipes reference paper](/references/#citing)
 
