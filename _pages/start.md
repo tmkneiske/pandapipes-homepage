@@ -97,8 +97,8 @@ If everything is installed correctly, all tests should pass or xfail (expected t
 
 A network in pandapipes is represented in a pandapipesNet object, which
 is a collection of pandas Dataframes. Each dataframe in a pandapipesNet
-contains the information about one pandapipes element, such as pipe,
-junction, sink, etc.
+contains the information about one of pandapipes' component types, such as pipe,
+junction, sink, etc.. Each row represents an element of the respective type.
 
 We consider the following simple example network as a minimal
 example:
@@ -162,6 +162,7 @@ Basic introduction:
    -   Minimal example temperature calculation ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/heating_network_example.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/heating_network_example.ipynb))
    -   Creating a simple heating network ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/creating_a_heating_network.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/creating_a_heating_network.ipynb))
    -   Introduction to Plotting ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/simple_plot.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/simple_plot.ipynb))
+   -   Introduction to coupled simulation of power and gas networks (multinet) ([static](https://github.com/e2nIEE/pandapipes/blob/develop/tutorials/coupled_nets_h2_p2g2p.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/develop?filepath=tutorials/coupled_nets_h2_p2g2p.ipynb))
 
 
  More tutorials will be added soon.
