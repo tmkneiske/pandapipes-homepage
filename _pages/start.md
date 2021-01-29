@@ -186,7 +186,7 @@ In the special case of a district heating grid, the fluid flows in a closed loop
 of the district heating network, which can be modeled in pandapipes with heat exchangers. To model flow in a closed
 loop, pandapipes provides a special kind of pump, which is introduced in this tutorial:
 
-   -  Circular flow in a district heating grid ([static](https://github.com/e2nIEE/pandapipes/blob/develop/tutorials/Circular%20flow%20in%20a%20district%20heating%20grid.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=%2Ftutorials%2FCircular%20flow%20in%20a%20district%20heating%20grid.ipynb))
+   -  Circular flow in a district heating grid ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/circular_flow_in_a_district_heating_grid.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/circular_flow_in_a_district_heating_grid.ipynb))
 
 <b>Quasistatic timeseries calculations:</b>
 
