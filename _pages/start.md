@@ -153,37 +153,37 @@ This minimal example is also available as a [jupyter notebook].
 ## Interactive Tutorials <a name="tutorials"></a>
 
 There are jupyter notebook tutorials on different functionalities of pandapipes. They can be viewed as static
-tutorials on github or as interactive tutorials via Binder. Interactive tutorials take a moment to load.
+tutorials on GitHub or as interactive tutorials via Binder. Interactive tutorials take a moment to load.
 
 Pandapipes provides different calculation modes and, depending on the task you want to apply pandapipes to, you
-will not have to do all of the tutorials. Read the following descriptions in order to determine the tutorials, which
+will not have to do all tutorials. Read the following descriptions in order to determine the tutorials which
 are important for you.
 
 <b>Static hydraulic calculations:</b>
 
 The tutorials linked in this section describe how pandapipes can be used to calculate the pressure and
-velocity distribution in case of static boundary conditions. Examples are given for compressible and incompressible 
-media. Because every other calculation includes the calculation of hydraulic properties, this section is a good
+velocity distribution in a network in case of static boundary conditions. Examples are given for compressible and incompressible 
+media. Because every other calculation includes the calculation of network hydraulics, this section is a good
 place to begin:
 
    -  Minimal example hydraulic calculation ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/minimal_example.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/minimal_example.ipynb))
    -  Creating a simple gas or water network ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/creating_a_simple_network.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/creating_a_simple_network.ipynb))
-   -  Working with height differences  ([static](https://github.com/e2nIEE/pandapipes/blob/develop/tutorials/height_difference_example.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/height_difference_example.ipynb))
+   -  Working with height differences ([static](https://github.com/e2nIEE/pandapipes/blob/develop/tutorials/height_difference_example.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/height_difference_example.ipynb))
    
-Some tutorials on the calculation of hydraulic properties are also available in German:
+Some tutorials on the calculation of network hydraulics are also available in German:
 
  -  Einfache Netzwerke in pandapipes modellieren ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/ein_einfaches_netz_erstellen.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/ein_einfaches_netz_erstellen.ipynb.ipynb))
- -  Modellieren mit Höhendifferenzen  ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/höhendifferenzen.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/höhendifferenzen.ipynb.ipynb))
+ -  Modellieren mit Höhendifferenzen ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/höhendifferenzen.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/höhendifferenzen.ipynb.ipynb))
 
 <b>Static thermal calculations:</b>
 
-If not only hydraulic properties are of interest, but also temperature values along the pipe nodes have to be known,
+If not only network hydraulics are of interest, but also temperature values along the pipes and nodes have to be known,
 you can have a look at the following tutorial:
 
    -  How to calculate pipe temperature ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/temperature_calculation.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/temperature_calculation.ipynb))
    
 In the special case of a district heating grid, the fluid flows in a closed loop. Heat is extracted by the consumers
-of the district heating network, which can be modeled in pandapipes with a heat exchanger. To model flow in a closed
+of the district heating network, which can be modeled in pandapipes with heat exchangers. To model flow in a closed
 loop, pandapipes provides a special kind of pump, which is introduced in this tutorial:
 
    -  Circular flow in a district heating grid ([static](https://github.com/e2nIEE/pandapipes/blob/develop/tutorials/Circular%20flow%20in%20a%20district%20heating%20grid.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=%2Ftutorials%2FCircular%20flow%20in%20a%20district%20heating%20grid.ipynb))
@@ -199,14 +199,14 @@ A tutorial describing the basic setup of these calculations can be found here:
 <b>Coupled pandapower-pandapipes simulations:</b>
 
 This tutorial shows how to use pandapipes in combination with pandapower to solve a time-dependent
-sector coupling application. Also a german version is available:
+sector coupling application. Also, a German version is available:
 
    -  Introduction to coupled simulation of power and gas networks (multinet) ([static](https://github.com/e2nIEE/pandapipes/blob/develop/tutorials/coupled_nets_h2_p2g2p.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/coupled_nets_h2_p2g2p.ipynb))
    -  German version of tutorial for coupled simulations ([static](https://github.com/e2nIEE/pandapipes/blob/develop/tutorials/multienergienetze.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/multienergienetze.ipynb))
    
 <b>Miscellaneous:</b>   
    
-In this last section, you can find tutorials on auxialiary functions which are useful for all pandapipes users:
+In this last section, you can find tutorials on auxiliary functions which are useful for all pandapipes users:
    -  Introduction to Plotting ([static](https://github.com/e2nIEE/pandapipes/blob/master/tutorials/simple_plot.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=tutorials/simple_plot.ipynb))
    -  Standard type and fluid library ([static](https://github.com/e2nIEE/pandapipes/blob/develop/tutorials/standard_libraries.ipynb) / [interactive](https://mybinder.org/v2/gh/e2nIEE/pandapipes/master?filepath=%2Ftutorials%2Fstandard_libraries.ipynb))
    
