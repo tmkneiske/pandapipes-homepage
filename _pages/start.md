@@ -97,8 +97,8 @@ If everything is installed correctly, all tests should pass or xfail (expected t
 
 A network in pandapipes is represented in a pandapipesNet object, which
 is a collection of pandas Dataframes. Each dataframe in a pandapipesNet
-contains the information about one pandapipes element, such as pipe,
-junction, sink, etc.
+contains the information about one of pandapipes' component types, such as pipe,
+junction, sink, etc.. Each row represents an element of the respective type.
 
 We consider the following simple example network as a minimal
 example:
@@ -158,8 +158,6 @@ tutorials on GitHub or as interactive tutorials via Binder. Interactive tutorial
 Pandapipes provides different calculation modes and, depending on the task you want to apply pandapipes to, you
 will not have to do all tutorials. Read the following descriptions in order to determine the tutorials which
 are important for you.
-
-<b>Static hydraulic calculations:</b>
 
 The tutorials linked in this section describe how pandapipes can be used to calculate the pressure and
 velocity distribution in a network in case of static boundary conditions. Examples are given for compressible and incompressible 
