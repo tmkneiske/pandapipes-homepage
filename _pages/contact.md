@@ -63,9 +63,10 @@ Therefore, if you want to receive updates also about new versions and other news
 pandapipes is a development by the Grid Planning and Grid Operation Division at the Fraunhofer Institute for Energy Economics and Energy System Technology (IEE), Kassel. Major contributions were made by the research group Energy Management and Power System Operation, University of Kassel.
 
 
-[<img src="https://www.uni-kassel.de/eecs/fileadmin/datas/fb16/Fachgebiete/energiemanagement/iee.png" width="300">](https://www.iee.fraunhofer.de/en.html)
+[<img src="{{ site.url }}{{ site.baseurl }}/images/contact/Logo_Fraunhofer_IEE.png" alt="Fraunhofer Institute for Energy Economics and Energy System Technology" width="50%">](https://www.iee.fraunhofer.de/en.html)
 
-[<img src="https://www.uni-kassel.de/eecs/fileadmin/datas/fb16/Fachgebiete/energiemanagement/e2n.png" width="200">](https://www.uni-kassel.de/eecs/en/fachgebiete/e2n/home.html)
+[<img src="{{ site.url }}{{ site.baseurl }}/images/contact/Logo_e2n.png" alt="Department of Energy Management and Power System Operation" width="35%">](https://www.uni-kassel.de/eecs/en/faculties/energy-management-and-power-system-operation/home)
+
 
 
 ## Who we are
