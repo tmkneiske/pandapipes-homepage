@@ -9,11 +9,11 @@ developers:
   - name: "Dennis Cronbach"
     affiliation: "Fraunhofer IEE"
     nickname: Dennis
-    email: dennis.cronbach@iee.fraunhofer.de
+    email: tanja.kneiske@ieg.fraunhofer.de
     image: "/images/contact/Cronbach.PNG"
     text: "had to fight windmills to create the fundamentals of what pandapipes is today - against 
            all odds. He loves transferring concepts from physics into software to unlock more and 
-           more features."
+           more features.(He left the project in July 2022, but he is still with us in spirit. Thank you for the great work you did!)"
   - name: "Daniel Lohmeier"
     affiliation: "Fraunhofer IEE"
     nickname: Daniel
@@ -37,9 +37,9 @@ developers:
            newest core team member he caught up very fast and is now sitting in the drivers seat to 
            push the pandapipes development."
   - name: "Tanja Kneiske"
-    affiliation: "Fraunhofer IEE"
+    affiliation: "Fraunhofer IEG"
     nickname: Tanja
-    email: tanja.kneiske@iee.fraunhofer.de
+    email: tanja.kneiske@ieg.fraunhofer.de
     image: "/images/contact/Kneiske.jpg"
     text: "was the initiator of the pandapipes project and brought the idea to life through her team. She is now the coordinator of the pandapipes development."
 ---
@@ -60,7 +60,7 @@ Therefore, if you want to receive updates also about new versions and other news
 
 ## About us
 
-pandapipes is a development by the Grid Planning and Grid Operation Division at the Fraunhofer Institute for Energy Economics and Energy System Technology (IEE), Kassel. Major contributions were made by the research group Energy Management and Power System Operation, University of Kassel.
+pandapipes is a development by the Grid Planning and Grid Operation Division at the Fraunhofer Institute for Energy Economics and Energy System Technology (IEE), Kassel. Major contributions were made by the research group Energy Management and Power System Operation, University of Kassel. Tanja Kneiske is continuing the coordination of pandapipes at the Fraunhofer Research Institution for Energy Infrastructures and Geothermal Systems (IEG), Cottbus.
 
 
 [<img src="{{ site.url }}{{ site.baseurl }}/images/contact/Logo_Fraunhofer_IEE.png" alt="Fraunhofer Institute for Energy Economics and Energy System Technology" width="50%">](https://www.iee.fraunhofer.de/en.html)
@@ -94,9 +94,8 @@ And these are some of the people behind pandapipes:
 
 Fraunhofer Institute for Energy Economics and Energy System Technology IEE<br>
 Grid Planning and Grid Operation Division<br>
-Prof. Dr.-Ing. Martin Braun<br>
-Koenigstor 59<br>
-34119 Kassel<br>
+Joseph-Beys-Str.8<br>
+34117 Kassel<br>
 
 ### Copyright und Liability 
 
