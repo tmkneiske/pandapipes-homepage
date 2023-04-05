@@ -46,7 +46,7 @@ The following publications discuss the tool itself and implementation details:
 
 - **D. Cronbach, T. M. Kneiske**, Development of a Simulation Environment For Analyzing Multi-Energy Networks, 14th International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics, 2019.
 - **R. Bolgaryn, G. Banerjee, D. Cronbach, S. Drauz, Z. Liu, M. Majidi, H. Maschke, Z. Wang, L. Thurner**, Recent Developments in Open Source Simulation Software pandapower and pandapipes, 2022 Open Source Modelling and Simulation of Energy Systems (OSMSES), 2022, DOI: [10.1109/OSMSES54027.2022.9769084](https://doi.org/10.1109/OSMSES54027.2022.9769084)
-- **R. Bolgaryn, G. Banerjee, S. Meinecke, H. Maschke, F. Marten, M. Richter, Z. Liu, P. Lytaev, B. Alfakhouri, J. Kisse, D. Lohmeier**, Open Source Simulation Software pandapower and pandapipes: Recent Developments, 2nd workshop on Open Source Modelling and Simulation of Energy Systems (OSMSES), 2023, available at [Fraunhofer Publica](https://publica-rest.fraunhofer.de/server/api/core/bitstreams/72a583a8-7204-4f87-bc9d-10760e07701a/content)
+- **R. Bolgaryn, G. Banerjee, S. Meinecke, H. Maschke, F. Marten, M. Richter, Z. Liu, P. Lytaev, B. Alfakhouri, J. Kisse, D. Lohmeier**, Open Source Simulation Software pandapower and pandapipes: Recent Developments, 2nd workshop on Open Source Modelling and Simulation of Energy Systems (OSMSES), 2023, DOI: [10.1109/OSMSES58477.2023.10089685](https://doi.org/10.1109/OSMSES58477.2023.10089685)
 
 
 
