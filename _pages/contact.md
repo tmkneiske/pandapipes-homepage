@@ -15,9 +15,9 @@ developers:
            all odds. He loves transferring concepts from physics into software to unlock more and 
            more features.(He left the project in July 2022, but he is still with us in spirit. Thank you for the great work you did!)"
   - name: "Daniel Lohmeier"
-    affiliation: "Fraunhofer IEE"
+    affiliation: "retoflow GmbH"
     nickname: Daniel
-    email: daniel.lohmeier@iee.fraunhofer.de
+    email: daniel.lohmeier@retoflow.de
     image: "/images/contact/Lohmeier.jpg"
     text: "is Mr. Speedy, as he put all his efforts into making pandapipes as performant in its 
            calculation as it is today. He loves to be the first to write new and clean code."
