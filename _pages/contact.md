@@ -22,9 +22,9 @@ developers:
     text: "is Mr. Speedy, as he put all his efforts into making pandapipes as performant in its 
            calculation as it is today. He loves to be the first to write new and clean code."
   - name: "Simon Ruben Drauz"
-    affiliation: "Fraunhofer IEE"
+    affiliation: "retoflow GmbH"
     nickname: Simon
-    email: simon.ruben.drauz@iee.fraunhofer.de
+    email: simon.drauz-mauel@retoflow.de
     image: "/images/contact/Drauz.jpeg"
     text: "can run until time is up. He is the expert of controllers and time series calculations 
            and converts all the concepts from pandapower to pandapipes."
@@ -37,11 +37,11 @@ developers:
            newest core team member he caught up very fast and is now sitting in the drivers seat to 
            push the pandapipes development."
   - name: "Tanja Kneiske"
-    affiliation: "Fraunhofer IEG"
+    affiliation: "Fraunhofer IEG/TU Berlin"
     nickname: Tanja
     email: tanja.kneiske@ieg.fraunhofer.de
     image: "/images/contact/Kneiske.jpg"
-    text: "was the initiator of the pandapipes project and brought the idea to life through her team. She is now the coordinator of the pandapipes development."
+    text: "is the initiator of the pandapipes project and brought the idea to life through her team. She is now the coordinator of the pandapipes development."
 ---
 <p></p>
 
